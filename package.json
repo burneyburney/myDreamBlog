@@ -1,0 +1,24 @@
+{
+  "name": "mydreamblog",
+  "version": "0.0.1",
+  "description": "static blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burneyburney/myDreamBlog.git"
+  },
+  "keywords": [
+    "static",
+    "blog",
+    "myStatiBlog"
+  ],
+  "author": "michael burney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burneyburney/myDreamBlog/issues"
+  },
+  "homepage": "https://github.com/burneyburney/myDreamBlog#readme"
+}
