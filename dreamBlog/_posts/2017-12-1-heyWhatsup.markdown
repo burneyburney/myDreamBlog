@@ -2,8 +2,7 @@
 layout: post
 title:  "Why I Wanted a Static Blog so Badley"
 date:   2017-12-01 19:42:14
-categories: jekyll update
-tags: [web, jekyll]
+tags: [web, jekyll, test, loremIpsum, Lorem Ipsum]
 ---
 
 #wassup  
