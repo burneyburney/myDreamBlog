@@ -1,3 +1,3 @@
-My 2017 Static Blog
+#My 2017 Static Blog
 
 Blog folder = dreamBlog
